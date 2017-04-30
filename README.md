@@ -1,9 +1,9 @@
-Windows FTPƒRƒ}ƒ“ƒh‚É‚æ‚éFTPˆ—Ž©“®‰»—pƒoƒbƒ`ƒtƒ@ƒCƒ‹
+Windows FTPã‚³ãƒžãƒ³ãƒ‰ã«ã‚ˆã‚‹FTPå‡¦ç†è‡ªå‹•åŒ–ç”¨ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«
 ========
 
 
 ## Description
 
-Windows‚Ìftp.exe‚ðŽg—p‚µCFTPƒT[ƒoã‚Ìƒtƒ@ƒCƒ‹‚ðƒ_ƒEƒ“ƒ[ƒh‚·‚é‚½‚ß‚Ìƒoƒbƒ`ƒtƒ@ƒCƒ‹‚Å‚·D
+Windowsã®ftp.exeã‚’ä½¿ç”¨ã—ï¼ŒFTPã‚µãƒ¼ãƒä¸Šã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ãŸã‚ã®ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ï¼Ž
 
 
