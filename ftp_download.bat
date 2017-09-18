@@ -42,10 +42,8 @@ if %ERRORLEVEL% neq 0 (
 
 rem èIóπèàóù
 :EXIT_SUCCESS
-endlocal
 exit /B %EXIT_CODE%
 
 :EXIT_FAILURE
-endlocal
 pause
 exit /B %EXIT_CODE%
